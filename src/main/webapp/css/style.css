@@ -1,0 +1,27 @@
+:root {
+	--color1: #fdf6f0;
+	--color2: #d3756b;
+	--color3: #f0997d;
+	--color4: #ffc3a1;
+}
+
+body {
+	background: var(--color1);
+}
+
+#nav-bar {
+	background: var(--color4);
+}
+
+h1 {
+	color: var(--color3);
+	text-align: center;
+}
+
+.button-orange {
+	background: var(--color2);
+}
+
+.button-light {
+	background: var(--color3);
+}
